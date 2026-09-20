@@ -36,8 +36,6 @@ I enjoy taking ambiguous, unstructured problems and architecting them into relia
 ### 🔄 How I Approach Engineering
 
 ```text
-        PROBLEM
-           ↓
     Understand Context
            ↓
        Explore Data
