@@ -30,7 +30,8 @@
 
 I'm a **Computer Science student**, specializing in **Artificial Intelligence & Machine Learning**.
 
-My work sits at the intersection of **Artificial Intelligence, Data Engineering, Cloud Infrastructure, and Computer Vision**. I enjoy taking ambiguous, unstructured problems and architecting them into reliable, production-ready systems.
+My work sits at the intersection of **Artificial Intelligence, Data Engineering, Cloud Infrastructure, and Computer Vision**. 
+I enjoy taking ambiguous, unstructured problems and architecting them into reliable, production-ready systems.
 
 ### 🔄 How I Approach Engineering
 
