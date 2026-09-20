@@ -22,8 +22,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=OjasviRaj1407&style=flat-square&color=1F6FEB&label=Profile+Views"/>
-
 </div>
 
 ---
